@@ -1,0 +1,9 @@
+C:\Projects\ScheduledTasks\Task2\SvcUtilFilter\bin\Debug\SvcUtilFilter.dll
+C:\Projects\ScheduledTasks\Task2\SvcUtilFilter\bin\Debug\SvcUtilFilter.pdb
+C:\Projects\ScheduledTasks\Task2\SvcUtilFilter\bin\Debug\CrmSvcUtil.exe
+C:\Projects\ScheduledTasks\Task2\SvcUtilFilter\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Projects\ScheduledTasks\Task2\SvcUtilFilter\obj\Debug\SvcUtilFilter.csprojAssemblyReference.cache
+C:\Projects\ScheduledTasks\Task2\SvcUtilFilter\obj\Debug\SvcUtilFilter.csproj.CoreCompileInputs.cache
+C:\Projects\ScheduledTasks\Task2\SvcUtilFilter\obj\Debug\SvcUtilFilter.csproj.CopyComplete
+C:\Projects\ScheduledTasks\Task2\SvcUtilFilter\obj\Debug\SvcUtilFilter.dll
+C:\Projects\ScheduledTasks\Task2\SvcUtilFilter\obj\Debug\SvcUtilFilter.pdb

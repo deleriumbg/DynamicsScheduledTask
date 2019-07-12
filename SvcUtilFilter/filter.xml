@@ -1,0 +1,23 @@
+<filter>
+  <entities>
+    <entity>contact</entity>
+	  <entity>account</entity>
+    <entity>incident</entity>
+    <entity>incidentresolution</entity>
+    <entity>annotation</entity>
+    <entity>systemuser</entity>
+    <entity>systemuserroles</entity>
+    <entity>role</entity>
+    <entity>opportunity</entity>
+    <entity>workflow</entity>
+    <entity>msdyn_incidenttype</entity>
+    <entity>new_registration</entity>
+    <entity>new_registrationstatus</entity>
+    <entity>new_registrationsubstatus</entity>
+    <entity>new_systemrules</entity>
+    <entity>email</entity>
+    <entity>template</entity>
+    <entity>activitypointer</entity>
+    <entity>activityparty</entity>
+  </entities>
+</filter>
